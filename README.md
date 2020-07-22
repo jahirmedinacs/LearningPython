@@ -11,13 +11,13 @@ The aim of this group is to learn the tools for the development of computational
 [Youtube link](https://www.youtube.com/watch?v=XM0CtrJYM2A&list=PLFCB5Dp81iNVoB_eWmDB1nEusSCurrsac&index=2)
 
 ## 3. Conditional Statements (if, elif, else) in Python - Beginner Python Tutorial #2
-[Youtube link](https://www.youtube.com/watch?v=RJL6Y761TNE&list=PLFCB5Dp81iNVoB_eWmDB1nEusSCurrsac&index=1)
+[Youtube link](https://www.youtube.com/watch?v=vsVGPcfxEiA&list=PLFCB5Dp81iNVoB_eWmDB1nEusSCurrsac&index=4)
 
-## 1. Why Should you Learn Python? - Simple Installation & Setup for Windows, Mac, & Linux!
-[Youtube link](https://www.youtube.com/watch?v=RJL6Y761TNE&list=PLFCB5Dp81iNVoB_eWmDB1nEusSCurrsac&index=1)
+## 4. Functions in Python - Beginner Python Tutorial #3 (with Exercises)
+[Youtube link](https://www.youtube.com/watch?v=5U95tRdYySA&list=PLFCB5Dp81iNVoB_eWmDB1nEusSCurrsac&index=5)
 
-## 1. Why Should you Learn Python? - Simple Installation & Setup for Windows, Mac, & Linux!
-[Youtube link](https://www.youtube.com/watch?v=RJL6Y761TNE&list=PLFCB5Dp81iNVoB_eWmDB1nEusSCurrsac&index=1)
+## 5. Lists & Tuples in Python - Beginner Python Tutorial #4
+[Youtube link](https://www.youtube.com/watch?v=_zFI6ytHHdY&list=PLFCB5Dp81iNVoB_eWmDB1nEusSCurrsac&index=6)
 
-## 1. Why Should you Learn Python? - Simple Installation & Setup for Windows, Mac, & Linux!
-[Youtube link](https://www.youtube.com/watch?v=RJL6Y761TNE&list=PLFCB5Dp81iNVoB_eWmDB1nEusSCurrsac&index=1)
+## 6. For Loops & While Loops in Python - Beginner Python Tutorial #5 (with Exercises)
+[Youtube link](For Loops & While Loops in Python - Beginner Python Tutorial #5 (with Exercises))
