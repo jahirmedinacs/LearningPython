@@ -6,9 +6,10 @@ We are a group of friends learning python from a collection of very good videos 
 [Youtube link](https://www.youtube.com/watch?v=RJL6Y761TNE&list=PLFCB5Dp81iNVoB_eWmDB1nEusSCurrsac&index=1)
 
 ### Additional content (Spanish)
-Curso Python. Vídeo 1 (Explicación del programa de aprendizaje y preguntas típicas)
+#### Curso Python. Vídeo 1 (Explicación del programa de aprendizaje y preguntas típicas)
 [Youtube link](https://www.youtube.com/watch?v=G2FCfQj-9ig&list=PLU8oAlHdN5BlvPxziopYZRd55pdqFwkeS&index=1)
-Curso Python. Introducción. Vídeo 2 (Desarrollo histórico e instalación)
+
+#### Curso Python. Introducción. Vídeo 2 (Desarrollo histórico e instalación)
 [Youtube link](https://www.youtube.com/watch?v=9ojhJsXNWCI&list=PLU8oAlHdN5BlvPxziopYZRd55pdqFwkeS&index=2)
 
 ## 2. Math & Variables in Python - Beginner Python Tutorial #1
