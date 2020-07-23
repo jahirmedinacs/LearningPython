@@ -1,6 +1,6 @@
 # NumPy
 
-|[Home](/index.md)|[Introduction to Python](/Python.md)|[NumPy](/NumPy.md)|[Matplotlib](/Matplotlib.md)|[Pandas](/Pandas.md)|
+|[Home](/index.md)|[NumPy](/NumPy.md)|[Matplotlib](/Matplotlib.md)|[Pandas](/Pandas.md)|
 
 ## An introduction
 
