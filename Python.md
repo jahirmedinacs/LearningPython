@@ -7,9 +7,9 @@
 * [Mathematical functions for complex numbers in Python](https://docs.python.org/3/library/cmath.html#module-cmath)
 
 ## 1. Introduction
-* Why Should you Learn Python? - Simple Installation & Setup for Windows, Mac, & Linux!
+* Why Should you Learn Python?
 [Youtube link](https://www.youtube.com/watch?v=RJL6Y761TNE&list=PLFCB5Dp81iNVoB_eWmDB1nEusSCurrsac&index=1)
-* Curso Python. Vídeo 1 (Explicación del programa de aprendizaje y preguntas típicas)
+* Curso Python. Vídeo 1 (Preguntas típicas)
 [Youtube link](https://www.youtube.com/watch?v=G2FCfQj-9ig&list=PLU8oAlHdN5BlvPxziopYZRd55pdqFwkeS&index=1)
 * Curso Python. Introducción. Vídeo 2 (Desarrollo histórico e instalación)
 [Youtube link](https://www.youtube.com/watch?v=9ojhJsXNWCI&list=PLU8oAlHdN5BlvPxziopYZRd55pdqFwkeS&index=2)
