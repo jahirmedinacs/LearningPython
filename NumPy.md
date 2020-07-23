@@ -7,7 +7,7 @@
 
 ## Complete tutorial
 
-This user [guide] (https://numpy.org/) was written by the NumPy community. It is important to cover the entire **Quick Start Tutorial** to have enough tools to work in other environments:
+This [user guide](https://numpy.org/) was written by the NumPy community. It is important to cover the entire **Quick Start Tutorial** to have enough tools to work in other environments:
 
 The Basics
 
