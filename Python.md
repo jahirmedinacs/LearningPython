@@ -1,5 +1,7 @@
 # Introduction to Python
 
+|[Home](/index.md)|[Introduction to Python](/Python.md)|[Introduction to SciPy](/SciPy.md)|
+
 ### Imporant links:
 
 #### [Mathematical functions in Python](https://docs.python.org/3/library/math.html#module-math)
