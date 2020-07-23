@@ -3,12 +3,10 @@
 |[Home](/index.md)|[NumPy](/NumPy.md)|[Matplotlib](/Matplotlib.md)|[Pandas](/Pandas.md)|
 
 ## An introduction
-
-#### 1. Complete Python NumPy Tutorial (Creating Arrays, Indexing, Math, Statistics, Reshaping)
+* Complete Python NumPy Tutorial (Creating Arrays, Indexing, Math, Statistics, Reshaping)
 [YouTube Link](https://www.youtube.com/watch?v=GB9ByFAIAH4&t=64s)
 
 ## Complete tutorial
-
 This [user guide](https://numpy.org/) was written by the NumPy community. It is important to cover the entire **Quick Start Tutorial** to have enough tools to work in other environments:
 
 The Basics
