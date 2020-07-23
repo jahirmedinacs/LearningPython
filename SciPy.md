@@ -1,6 +1,6 @@
 # Introduction to SciPy
 
-|[Home](/index.md)|[Introduction to Python](/Python.md)|[NumPy](/NumPy.md)|[Matplotlib](/Matplotlib.md)|[Pandas](/Pandas.md)|
+|[Home](/index.md)|[Introduction to Python](/Python.md)|[Introduction to SciPy](/SciPy.md)|
 
 Here we have the principal branches of SciPy: 
 * **[NumPy](/NumPy.md)**: This package allows us to work with N-dimensional arrays
