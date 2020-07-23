@@ -6,3 +6,6 @@ We are a group of friends learning python from a collection of good videos from 
 
 #### [Introduction to Python](/Python.md)
 #### [Introduction to SciPy](/SciPy.md)
+
+
+![ComputationalPhysicsPython](/ComputationalPhysicsPython.jpg
