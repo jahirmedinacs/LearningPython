@@ -7,13 +7,24 @@
 
 ## Complete tutorial
 
-This user [guide] (https://numpy.org/) was written by the NumPy community. It is important to cover the entire ** Quick Start Tutorial ** to have enough tools to work in other environments.
+This user [guide] (https://numpy.org/) was written by the NumPy community. It is important to cover the entire **Quick Start Tutorial** to have enough tools to work in other environments:
 
-* The Basics: Array Creation, Printing Arrays, Basic Operations, Universal Functions, Indexing, Slicing and Iterating.
+The Basics
 
-* Shape Manipulation: Changing the shape of an array, Stacking together different arrays and Splitting one array into several smaller ones.
+    An example
+    Array Creation
+    Printing Arrays
+    Basic Operations
+    Universal Functions
+    Indexing, Slicing and Iterating
 
-* Copies and Views
+Shape Manipulation
+
+    Changing the shape of an array
+    Stacking together different arrays
+    Splitting one array into several smaller ones
+
+Copies and Views
 
     No Copy at All
     View or Shallow Copy
