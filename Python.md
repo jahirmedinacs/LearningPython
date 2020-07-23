@@ -3,9 +3,8 @@
 |[Home](/index.md)|[Introduction to Python](/Python.md)|[Introduction to SciPy](/SciPy.md)|
 
 ### Imporant links:
-
-#### [Mathematical functions in Python](https://docs.python.org/3/library/math.html#module-math)
-#### [Mathematical functions for complex numbers in Python](https://docs.python.org/3/library/cmath.html#module-cmath)
+* [Mathematical functions in Python](https://docs.python.org/3/library/math.html#module-math)
+* [Mathematical functions for complex numbers in Python](https://docs.python.org/3/library/cmath.html#module-cmath)
 
 ## 1. Introduction
 * Why Should you Learn Python? - Simple Installation & Setup for Windows, Mac, & Linux!
