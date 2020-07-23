@@ -1,3 +1,3 @@
 # LearningPython
 
-A SAS project.
+A SEA project.
