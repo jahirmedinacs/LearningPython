@@ -1,5 +1,7 @@
 # NumPy
 
+|[Home](/index.md)|[Introduction to Python](/Python.md)|[NumPy](/NumPy.md)|[Matplotlib](/Matplotlib.md)|[Pandas](/Pandas.md)|
+
 ## An introduction
 
 #### 1. Complete Python NumPy Tutorial (Creating Arrays, Indexing, Math, Statistics, Reshaping)
