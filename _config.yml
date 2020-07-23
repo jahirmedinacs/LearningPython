@@ -1,3 +1,5 @@
 theme: jekyll-theme-cayman
 title: LearningPython
 description: SAS
+github:
+  is_project_page: false
