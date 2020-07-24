@@ -65,3 +65,7 @@
 [Youtube link](https://www.youtube.com/watch?v=UfUM6uzl5SM&list=PLU8oAlHdN5BlvPxziopYZRd55pdqFwkeS&index=17)
 * Curso de Python. Bucles V Continue, pass y else. Vídeo 18
 [Youtube link](https://www.youtube.com/watch?v=c8WCRTU4udo&list=PLU8oAlHdN5BlvPxziopYZRd55pdqFwkeS&index=18)
+
+## 7. Crash Course
+* all the above information, condensed.
+[Youtube Link](https://www.youtube.com/watch?v=rfscVS0vtbw)
